@@ -95,7 +95,7 @@ export default {
           id: "pkhmk",
           title: "PKHMK",
           description: "create a website for Company Profile",
-          image: portfolio6,
+          image: portfolio7,
           url: "https://www.pkhmk.com/",
         },
       ],

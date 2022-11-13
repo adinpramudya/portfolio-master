@@ -59,7 +59,7 @@
             default: 'bounce',
           },
           random: false,
-          speed: 10,
+          speed: 5,
           straight: false,
         },
         number: {
