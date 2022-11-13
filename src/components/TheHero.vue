@@ -110,10 +110,9 @@
               class="relative z-10 mx-auto max-w-full"
             />
             <span
-              class="absolute -bottom-10 left-1/2 -translate-x-1/2 sm:scale-100 md:scale-125 lg:scale-125"
+              class="absolute bottom-0 left-1/2 -translate-x-1/2 sm:scale-125 md:scale-125 xl:scale-150"
               ><svg
-                width="400"
-                height="400"
+                class="w-[230px] h-[230px] sm:w-[400px] sm:h-[400px]"
                 viewBox="0 0 200 200"
                 xmlns="http://www.w3.org/2000/svg"
               >

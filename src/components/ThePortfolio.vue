@@ -89,7 +89,7 @@ export default {
           title: "Find A Coach",
           description: "create a website for find a coach",
           image: portfolio6,
-          url: "https://coach-apps.netlify.app/coaches",
+          url: "https://coach-apps.netlify.app/",
         },
         {
           id: "pkhmk",
