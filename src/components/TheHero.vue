@@ -112,7 +112,7 @@
             <span
               class="absolute bottom-0 left-1/2 -translate-x-1/2 sm:scale-125 md:scale-125 xl:scale-125"
               ><svg
-                class="w-[230px] h-[230px] sm:w-[400px] sm:h-[400px]"
+                class="w-[270px] h-[270px] sm:w-[400px] sm:h-[400px]"
                 viewBox="0 0 200 200"
                 xmlns="http://www.w3.org/2000/svg"
               >
