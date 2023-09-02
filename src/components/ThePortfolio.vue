@@ -42,18 +42,19 @@ import portfolio4 from "../assets/img/portfolio/4.png";
 import portfolio5 from "../assets/img/portfolio/5.png";
 import portfolio6 from "../assets/img/portfolio/6.png";
 import portfolio7 from "../assets/img/portfolio/7.png";
+import portfolio8 from "../assets/img/portfolio/8.png";
 export default {
   data() {
     return {
       portfolios: [
-        {
-          id: "admin",
-          title: "Website Admin Staycation",
-          description:
-            "create a staycation admin website using HTML CSS Framework Bootstrap Javascript",
-          image: portfolio1,
-          url: "https://admin-staycation5.herokuapp.com/",
-        },
+        // {
+        //   id: "admin",
+        //   title: "Website Admin Staycation",
+        //   description:
+        //     "create a staycation admin website using HTML CSS Framework Bootstrap Javascript",
+        //   image: portfolio1,
+        //   url: "https://admin-staycation5.herokuapp.com/",
+        // },
         {
           id: "bootstrap",
           title: "Website Portfolio Bootstrap",
@@ -62,14 +63,14 @@ export default {
           image: portfolio2,
           url: "https://adin-pramudya.netlify.app/",
         },
-        {
-          id: "staycation",
-          title: "Website Staycation",
-          description:
-            "create a website staycation with React JS and CSS Preprocessor",
-          image: portfolio3,
-          url: "https://staycation-adinpramudya.vercel.app/",
-        },
+        // {
+        //   id: "staycation",
+        //   title: "Website Staycation",
+        //   description:
+        //     "create a website staycation with React JS and CSS Preprocessor",
+        //   image: portfolio3,
+        //   url: "https://staycation-adinpramudya.vercel.app/",
+        // },
         {
           id: "e-commerce",
           title: "E-Commerce Furniture",
@@ -97,6 +98,13 @@ export default {
           description: "create a website for Company Profile",
           image: portfolio7,
           url: "https://www.pkhmk.com/",
+        },
+        {
+          id: "sphere",
+          title: "SPHERE",
+          description: "Project Build a interior or furniture website",
+          image: portfolio8,
+          url: "https://sphere.co.id/",
         },
       ],
     };
