@@ -38,6 +38,6 @@ export default {
   <the-portfolio></the-portfolio>
   <the-experience></the-experience>
   <the-certificate></the-certificate>
-  <the-contact></the-contact>
+  <!-- <the-contact></the-contact> -->
   <the-footer></the-footer>
 </template>

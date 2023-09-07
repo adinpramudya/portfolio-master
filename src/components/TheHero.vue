@@ -7,14 +7,15 @@
             Adinda Pramudya Ramadhan
           </h1>
           <h1 class="text-md mb-4 font-semibold dark:text-light md:text-xl">
-            I’M <span class="text-primary">FRONT-END</span> DEVELOPER
+            I’M <span class="text-primary">FULLSTACK</span> DEVELOPER AND
+            <span class="text-primary">QA</span> AUTOMATION
           </h1>
           <p class="mb-10 text-sm text-slate-400">
-            Hello, I'm Adin. I’m a Computer Science graduate who is disciplined
-            with time. I’m learning enthusiastically to improve my skills and
-            become a professional. Experienced as Application Developer and
-            freelance front-end Developer, I am also an IT Enthusiast who is
-            very interested in front-end application development.
+            Hello, I'm Adin, I'm a computer science graduate who is disciplined
+            with time. I will always try and learn to improve my skills and
+            abilities. Experience working as an Application Developer at a
+            startup in Jakarta, I am also an IT Enthusiast who is very
+            interested in new technologies that I haven't learned yet.
           </p>
 
           <a
